@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohammadshahbazalam/mohammadshahbazalam/main/assets/banner.png" alt="Mohammad Shahbaz Alam Banner" />
-</p>
+
 
 # 👋 Hi, I'm Mohammad Shahbaz Alam  
 
