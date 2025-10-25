@@ -67,13 +67,13 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammadshahbazalam">
+  <a href="https://www.linkedin.com/in/mohammad-shahbaz-alam">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:shahbaz.devinfo@gmail.com">
+  <a href="mailto:alam.shahbaz01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/mohammadshahbazalam">
+  <a href="https://github.com/shahbaz-pycread">
     <img src="https://img.shields.io/badge/Portfolio-24292e?logo=githubpages&logoColor=white" />
   </a>
 </p>
@@ -81,7 +81,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammadshahbazalam&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=shahbaz-pycread&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
 
 ---
