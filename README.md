@@ -12,7 +12,6 @@
 
 - 🧑‍💻 Passionate about **building scalable backend systems** using Django & REST Framework.  
 - 📈 Skilled in **data analysis**, **automation**, and **SQL optimization**.  
-- ✍️ Creator of [**PyCread**](https://github.com/mohammadshahbazalam) — sharing insights on Python, Django, SQL, and tech.  
 - 🎯 Currently exploring **React.js** and **data visualization tools**.  
 - 🌍 Based in **India**, open to **remote roles** and **freelance projects**.  
 
