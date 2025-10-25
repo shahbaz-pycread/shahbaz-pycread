@@ -43,7 +43,7 @@
 | 🏨 **Travel Booking App** | Django-based web app to search & book accommodations using dummy data. | Django · MySQL · Bootstrap |
 | 📰 **Blog with SEO Tags** | Responsive blog app using Django & Bulma CSS, featuring slugs, category filtering, and tags. | Django · Bulma · SQLite |
 | ⚙️ **Real-time Dashboard** | Dashboard displaying live updates using Django Channels & REST APIs. | Django · DRF · JS |
-| 🧮 **SQL Data Analysis (EdTech)** | End-to-end SQL analysis project using views, CTEs, and functions. | SQL · Power BI |
+| 🧮 **SQL Data Analysis (EdTech)** | End-to-end SQL analysis project using views, CTEs, and functions. | SQL |
 
 ---
 
